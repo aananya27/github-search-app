@@ -1,0 +1,23 @@
+
+#navbar{
+    Width: 10%;
+    Height: 100%; 
+    position: fixed;
+    height: 100%;
+    width: 300px;
+    background-color: rgba(126, 183, 248, 0.74);
+    }
+
+
+    #navbar a {
+        font: 200;
+        color: rgb(24, 16, 88) ;
+       
+      }
+
+      #navbar li{
+        position: relative;
+        width: 100%;
+        padding: 10px; 
+      }
+      
